@@ -297,4 +297,4 @@ ALTER TABLE `type_task`
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `ID_user` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `ID_user` bigint(20) NOT NULL AUTO_INCREMENT;
